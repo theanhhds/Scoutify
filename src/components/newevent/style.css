@@ -1,0 +1,16 @@
+.dropdown{
+	width:250px;
+	height:300px;
+	overflow-y:auto;
+	overflow-x:auto;
+	white-space: nowrap; 
+}
+
+.wrap{
+	/* display: inline; */
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	word-break: break-all;
+	word-break: break-word;
+	hyphens: auto;
+}
